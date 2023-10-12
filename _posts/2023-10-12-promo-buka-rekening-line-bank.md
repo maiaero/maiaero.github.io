@@ -7,13 +7,13 @@ image: assets/images/17.jpg
 ---
 <h3>Cara Penggunaan :</h3>
 ```html
-1. Periode program: 1 Oktober 2023 – 31 Desember 2023.
+Periode program: 1 Oktober 2023 – 31 Desember 2023.
 
-2. Program ini berlaku untuk nasabah baru PT Bank KEB Hana Indonesia (“Bank Hana”) yang membuka Tabungan LINE Bank melalui aplikasi LINE Bank by Hana Bank.
+Program ini berlaku untuk nasabah baru PT Bank KEB Hana Indonesia (“Bank Hana”) yang membuka Tabungan LINE Bank melalui aplikasi LINE Bank by Hana Bank.
 
-3. Download aplikasi LINE Bank by Hana Bank.
+Download aplikasi LINE Bank by Hana Bank.
 
-4. Buka rekening LINE Bank dengan syarat & ketentuan berlaku.
+Buka rekening LINE Bank dengan syarat & ketentuan berlaku.
 ```
 <h3>Syarat & Ketentuan</h3>   
 
@@ -53,12 +53,3 @@ Cashback tambahan akan dikreditkan ke rekening Tabungan LINE Bank nasabah selamb
 13. Dengan mengikuti promo program ini nasabah telah membaca, mengetahui, memahami dan menyetujui seluruh syarat dan ketentuan yang berlaku.
 
 14. PT Bank KEB Hana Indonesia berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK) serta merupakan peserta Lembaga Penjamin Simpanan (LPS).
-
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
