@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Promo Referral"
+title:  "Promo Referral Line Bank"
 author: ero
 categories: [ Line Bank, Promo ]
 image: assets/images/16.jpg
