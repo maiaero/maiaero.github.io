@@ -19,7 +19,13 @@ Invite friends to open a LINE Bank account, get CASHBACK up to IDR 2,500,000
 
 
 ## Terms & condition
+1. Program Member Get Member ini berlaku selama periode 1 Oktober 2023 – 31 Desember 2023.
 
++ Periode 1 : 1 – 31 Oktober 2023
++ Periode 2 : 1 – 30 November 2023
++ Periode 3 : 1 – 31 Desember 2023
+
+2. Program ini berlaku untuk nasabah PT Bank KEB Hana Indonesia (“Bank Hana”) yang telah melakukan pembukaan Tabungan LINE Bank melalui aplikasi LINE Bank by Hana Bank.
 
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
